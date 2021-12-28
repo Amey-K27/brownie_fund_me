@@ -5,6 +5,8 @@ from scripts.helpful_scripts import (
     LOCAL_BLOCKCHAIN_ENVIRONMENTS,
 )
 
+# This comment is just for trial
+
 
 def deploy_fund_me():
     account = get_account()
